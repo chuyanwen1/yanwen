@@ -1,0 +1,1 @@
+<script type="text/javascript">alert("视频还没上映不能观看!");window.location.href="/vod/"</script>
