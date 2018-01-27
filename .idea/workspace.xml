@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e816915-5aca-4d63-bb33-58a69cf3093f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/seach.php" />
+      <change beforePath="$PROJECT_DIR$/css/blackcolor.css" afterPath="$PROJECT_DIR$/css/blackcolor.css" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" afterPath="$PROJECT_DIR$/css/style.min.css" />
+      <change beforePath="$PROJECT_DIR$/css/swiper.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/bg.jpg" afterPath="$PROJECT_DIR$/images/bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/bg1 (2).jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/bg1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_0463b3fbb988648e5eefba34b5dd84eb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_1fb77bfc4df0a1af19b87831833095f9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_2544aaf69c7cf14c10a885e0cdd916eb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_266a581f6a2279ef08054a14ca3e957c.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_26a06956e89b7ff1807dbe5097502e38.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_354977a408d7038244382fa5b483b742.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_3a84cb41528474b7b2c5a458f72b949b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_4eb8c04f29fa077f0f9af72969996506.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_6614d2c32f994d52597c7ab967476b42.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_6c8dea165cbe2d6eb254d9b0e1577cf7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_728b78108a039feff7215b9c8e7b2530.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_72ecf4c9ecf0339eb8d4bf300fa4d2b2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_898c04990cf3a38cc6e9e4f162699a81.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_8fdd467c33252d862b13755ffa0000bb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_954111e20b4cd5a8c939204812f36373.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_9f7f813b06a6a8f56939e00445b27825.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_9ff329c6b6e6a1937e5097dc52e2328b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_a1527782696fb3a481c5a3eef72f1c7c.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_a5ddaf3a3be26f4d94d843d1386fb272.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_adcb23a688ff1ab89f3e30d482724189.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_bbf7942c4120051053a9a51786dcc04b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_c4fbed67a176651014ae125143afcc57.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_f36a2ec5969faf053e97866e7ae31644.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/dy_f5f6fe8bef806d6350148e43ab7319fb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/play.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/star.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/star1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t01002172947d30d40e.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t0140b1c152ef4f4118.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t014c0dd268289161bc.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t0159323d79e0a12bbb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t016ac3d4c9b6a0be35.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t01aaa1242d197e1d9c.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t01c7f9d465c761c1ad.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/t01f6c58b11aaa02f9b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/swiper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/system.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/picture/20171010060448_78472.png" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="play.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="177" column="9" lean-forward="true" selection-start-line="177" selection-start-column="9" selection-end-line="177" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="276" column="33" lean-forward="true" selection-start-line="276" selection-start-column="33" selection-end-line="276" selection-end-column="33" />
+              <folding>
+                <marker date="1517026648059" expanded="true" signature="10713:10758" ph="..." />
+                <marker date="1517026648059" expanded="true" signature="10925:10946" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="play.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/play.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="172" column="52" lean-forward="false" selection-start-line="172" selection-start-column="52" selection-end-line="172" selection-end-column="52" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1517044669155" expanded="true" signature="3734:3738" ph="&gt;" />
+                <marker date="1517044669155" expanded="true" signature="3738:3742" ph="&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yingshi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/yingshi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="2" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="24" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seach.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/seach.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>会员中心</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/play.html" />
+        <option value="$PROJECT_DIR$/data/yingshi.php" />
+        <option value="$PROJECT_DIR$/data/seach.php" />
+        <option value="$PROJECT_DIR$/data/play.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="412" />
+    <option name="y" value="168" />
+    <option name="width" value="1414" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yanwen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanwen" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="yanwen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanwen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e816915-5aca-4d63-bb33-58a69cf3093f" name="Default" comment="" />
+      <created>1517035141645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517035141645</updated>
+      <workItem from="1517035145766" duration="6917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6917000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/yingshi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/seach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="276" column="33" lean-forward="true" selection-start-line="276" selection-start-column="33" selection-end-line="276" selection-end-column="33" />
+          <folding>
+            <marker date="1517026648059" expanded="true" signature="10713:10758" ph="..." />
+            <marker date="1517026648059" expanded="true" signature="10925:10946" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="177" column="9" lean-forward="true" selection-start-line="177" selection-start-column="9" selection-end-line="177" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/play.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="172" column="52" lean-forward="false" selection-start-line="172" selection-start-column="52" selection-end-line="172" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1517044669155" expanded="true" signature="3734:3738" ph="&gt;" />
+            <marker date="1517044669155" expanded="true" signature="3738:3742" ph="&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

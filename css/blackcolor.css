@@ -2,7 +2,7 @@
 
 body{background-color: #28162c; color: #ccc;}
 
-body:before{ content: ""; position: fixed; z-index: -1; top: 0; left: 0; right: 0; bottom: 0;background: url(../images/bg.jpg) center 0 no-repeat;} 
+body:before{ content: ""; position: fixed; z-index: -1; top: 0; left: 0; right: 0; bottom: 0;background: url(../images/bg.png) center 0 no-repeat;} 
 
 h1, h2, h3, h4, h5, h6,a{ color: #ccc;}
 
@@ -70,7 +70,7 @@ a:hover,.text-color,.hy-cascade .content-meun .item ul li a.active,.hy-cascade .
 
 @media (max-width: 767px){
 
-    body:before{ background: url(../images/bg_app.jpg) center 0 no-repeat; background-size: cover;} 
+    body:before{ background: url(../images/bg.png) center 0 no-repeat; background-size: cover;} 
 	
 	.tabbar{ background-color: #2b2a2a;  border-top: 1px solid #444;}
 	
